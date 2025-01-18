@@ -1,0 +1,11 @@
+<Typography sx={{fontSize:"0.9rem",fontWeight: "bold", ml: 1,mt:6}}>On Going Projects</Typography>
+
+            <Box sx={{
+                width: '360px',
+                height: '2.5px',
+                backgroundImage: 'linear-gradient(to right,rgb(0, 0, 106),rgb(170, 0, 255))',
+                ml: 1,
+                mt:1.5
+            }} />
+                
+            <ProjectHshow />
