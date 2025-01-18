@@ -42,7 +42,7 @@ function Header() {
                
                 <Grid sx={{ml: 10}}>
                 <Button onClick={handleRefresh} sx={{":hover": {backgroundColor: "#00006b"}}}>
-                    <RouterLink to="/" style={{ textDecoration: 'none', color:'white' }}>Home</RouterLink>
+                    <RouterLink to="/portfolio-site" style={{ textDecoration: 'none', color:'white' }}>Home</RouterLink>
                 </Button>
                 
                 <Button sx={{ml: 8,":hover": {backgroundColor: "#00006b"}}}>
